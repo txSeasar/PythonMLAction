@@ -6,10 +6,12 @@ Created on Fri Dec 22 23:32:10 2017
 @author: yuchunyan
 """
 
-import FirstPython
+import FirstPython as fp
 
-aa,bb = createDataSet()
+aa,bb = fp.createDataSet()
 
 print(aa)
 
 print(bb)
+
+print("hello")
